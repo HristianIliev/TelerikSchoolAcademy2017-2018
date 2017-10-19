@@ -9,10 +9,6 @@ public class Main {
 	    int N = in.nextInt();
 	    int[] allNumbersLessOrEqualThanN = new int[N + 1];
 	    for(int i = 2; i < allNumbersLessOrEqualThanN.length; i++){
-	    	if(i % 3 == 0 && i != 3 ){
-	    		continue;
-			}
-
 	        allNumbersLessOrEqualThanN[i] = i;
         }
 
