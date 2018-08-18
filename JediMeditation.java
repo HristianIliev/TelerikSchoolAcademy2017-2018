@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Jedi Meditation {
+public class JediMeditation {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
